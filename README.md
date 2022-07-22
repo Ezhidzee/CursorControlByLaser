@@ -1,3 +1,3 @@
 # CursorControlByLaser
 
-https://ezhidze.su/laser-mouse-control/
+https://ezhidze.su/cursor-control-by-laser/
